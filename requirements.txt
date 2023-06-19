@@ -1,0 +1,5 @@
+# Python=3.7.12
+tensorflow
+keras
+numpy
+opencv-python
